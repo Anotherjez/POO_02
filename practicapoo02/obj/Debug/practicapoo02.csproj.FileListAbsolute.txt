@@ -1,0 +1,7 @@
+C:\Users\intel\source\repos\practicapoo02\practicapoo02\bin\Debug\practicapoo02.exe.config
+C:\Users\intel\source\repos\practicapoo02\practicapoo02\bin\Debug\practicapoo02.exe
+C:\Users\intel\source\repos\practicapoo02\practicapoo02\bin\Debug\practicapoo02.pdb
+C:\Users\intel\source\repos\practicapoo02\practicapoo02\obj\Debug\practicapoo02.csprojAssemblyReference.cache
+C:\Users\intel\source\repos\practicapoo02\practicapoo02\obj\Debug\practicapoo02.csproj.CoreCompileInputs.cache
+C:\Users\intel\source\repos\practicapoo02\practicapoo02\obj\Debug\practicapoo02.exe
+C:\Users\intel\source\repos\practicapoo02\practicapoo02\obj\Debug\practicapoo02.pdb
